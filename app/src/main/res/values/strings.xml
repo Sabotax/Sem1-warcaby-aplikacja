@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Danielowe Warcaby</string>
+    <string name="ruch_czarnych">Ruch Czarnych!</string>
+    <string name="ruch_bialych">Ruch Bialych!</string>
+    <string name="wygrana_bialych">Białe Wygrywają!!</string>
+    <string name="wygrana_czarnych">Czarne wygrywają!!</string>
+    <string name="wygrana_remis">Remis!!</string>
+    <string name="nowa_gra">Nowa gra</string>
+    <string name="wczytaj">Wczytaj zapis</string>
+    <string name="statystyki">Statystyki</string>
+    <string name="nowa_gra_dialog_pytanie">Jesteś pewien, że chcesz zacząć grę od nowa?</string>
+    <string name="nowa_gra_dialog_tak">Tak</string>
+    <string name="nowa_gra_dialog_nie">Nie</string>
+    <string name="nowa_gra_dialog_naglowek">Uwaga!</string>
+    <string name="staty_ilosc_ruchow_czarny">Ilość wykonanych ruchów czarnego:</string>
+    <string name="staty_ilosc_ruchow_bialy">Ilość wykonanych ruchów białego:</string>
+    <string name="staty_ilosc_punktow_bialy">Ilość posiadanych punktów biały:</string>
+    <string name="staty_ilosc_punktow_czarny">Ilość posiadanych punktów czarny:</string>
+</resources>

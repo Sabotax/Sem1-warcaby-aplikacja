@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+    android:id = "@+id/toolbar"
+    layout ="@layout/toolbar" />
+
+    <TextView
+        android:id="@+id/staty_ilosc_ruchow_bialy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/staty_ilosc_ruchow_bialy"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/staty_ilosc_ruchow_bialy_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-1"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/staty_ilosc_punktow_bialy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/staty_ilosc_punktow_bialy"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/staty_ilosc_punktow_bialy_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-1"
+        android:textSize="30sp" />
+    <TextView
+        android:id="@+id/staty_ilosc_ruchow_czarny"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/staty_ilosc_ruchow_czarny"
+        android:textSize="30sp" />
+    <TextView
+        android:id="@+id/staty_ilosc_ruchow_czarny_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-1"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/staty_ilosc_punktow_czarny"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/staty_ilosc_punktow_czarny"
+        android:textSize="30sp" />
+    <TextView
+        android:id="@+id/staty_ilosc_punktow_czarny_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-1"
+        android:textSize="30sp" />
+
+
+
+</LinearLayout>

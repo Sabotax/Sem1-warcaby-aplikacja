@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nowa_gra"
+        android:title="@string/nowa_gra" />
+    <item android:id="@+id/wczytaj"
+        android:title="@string/wczytaj" />
+    <item android:id="@+id/statystyki"
+        android:title="@string/statystyki" />
+
+</menu>
